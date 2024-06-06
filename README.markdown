@@ -4,4 +4,4 @@ Nas aulas dos dias 4 e 5 foram trabalhadas o projeto AluraFlix, que consiste em 
 E aqui mostro como terminou o projeto após as 2 aulas :]
 
 Você consegue acessá-lo por:
-<a href="https://liviabraz.github.io/aluraFlix/"> AluraFlix </a>
+<a href="https://codingloria.github.io/aluraFlix/"> AluraFlix </a>
